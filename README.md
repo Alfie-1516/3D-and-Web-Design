@@ -15,3 +15,7 @@ This project showcases the potential for enhanced interactivity and visual appea
 ### Contact Links
 * Email: Okorochaalfred@gmail.com
 * LinkdIn:[ Alfred Okorocha](https://www.linkedin.com/in/alfred-okorocha-68aaa2235/)
+* ## Preview
+![Alt text](https://github.com/Alfie-1516/3D-and-Web-Design/blob/main/web_preview_1.png?raw=true "Title")
+![Alt text](https://github.com/Alfie-1516/3D-and-Web-Design/blob/main/web_preview_2.png?raw=true "Title")
+
